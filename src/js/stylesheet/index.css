@@ -1,0 +1,16 @@
+.Cajitas{
+    text-align: center;
+}
+
+.Cajitas div {
+    border: 1px solid white;
+    display: inline-block;
+    font-size: 80px;
+    line-height: 80px;
+    background-color: #101010;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
